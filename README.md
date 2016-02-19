@@ -4,10 +4,10 @@ Codebase & demo for slide and push menus. View the tutorial [here.](http://callm
 
 ## Live Demo
 
-View the live demo [here.](http://callmenick.com/_development/slide-push-menus/)
+View the live demo [here.](http://trevinc.github.io/slide-and-push-menus/)
 
 ## License & Copyright
 
 Licensed under the [MIT license.](http://www.opensource.org/licenses/mit-license.php)
 
-Copyright 2014, [Call Me Nick.](http://callmenick.com)
+Original code copyright 2014, [Call Me Nick.](http://callmenick.com)
