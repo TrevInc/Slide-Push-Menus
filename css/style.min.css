@@ -238,7 +238,7 @@ img {
 .c-menu {
   position: fixed;
   z-index: 200;
-  background-color: #67b5d1;
+  background-color: #333;
   -webkit-transition: -webkit-transform 0.3s;
   transition: transform 0.3s; }
 
@@ -279,8 +279,8 @@ img {
 .c-menu--push-right .c-menu__item {
   display: block;
   text-align: center;
-  border-top: solid 1px #b5dbe9;
-  border-bottom: solid 1px #3184a1; }
+  border-top: solid 1px #000;
+  border-bottom: solid 1px #eee; }
 
 .c-menu--slide-left .c-menu__item:first-child,
 .c-menu--slide-right .c-menu__item:first-child,
